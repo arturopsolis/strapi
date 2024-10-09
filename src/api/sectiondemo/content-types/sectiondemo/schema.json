@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "sectiondemos",
+  "info": {
+    "singularName": "sectiondemo",
+    "pluralName": "sectiondemos",
+    "displayName": "sectiondemo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text_1": {
+      "type": "string"
+    },
+    "text_2": {
+      "type": "string"
+    },
+    "text_long_3": {
+      "type": "text"
+    },
+    "number_1": {
+      "type": "integer"
+    },
+    "number_2": {
+      "type": "decimal"
+    }
+  }
+}
