@@ -368,6 +368,7 @@ export interface ApiSectiondemoSectiondemo extends Schema.SingleType {
     singularName: 'sectiondemo';
     pluralName: 'sectiondemos';
     displayName: 'sectiondemo';
+    description: '';
   };
   options: {
     draftAndPublish: true;
@@ -378,6 +379,7 @@ export interface ApiSectiondemoSectiondemo extends Schema.SingleType {
     text_long_3: Attribute.Text;
     number_1: Attribute.Integer;
     number_2: Attribute.Decimal;
+    text_rich_1: Attribute.Blocks;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
