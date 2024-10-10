@@ -30,7 +30,7 @@
     "text_rich_1": {
       "type": "blocks"
     },
-    "PDFLink": {
+    "PDFLinks": {
       "displayName": "PDFlink",
       "type": "component",
       "repeatable": true,
