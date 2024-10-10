@@ -29,6 +29,12 @@
     },
     "text_rich_1": {
       "type": "blocks"
+    },
+    "PDFLink": {
+      "displayName": "PDFlink",
+      "type": "component",
+      "repeatable": true,
+      "component": "documents.pd-flink"
     }
   }
 }

@@ -380,6 +380,7 @@ export interface ApiSectiondemoSectiondemo extends Schema.SingleType {
     number_1: Attribute.Integer;
     number_2: Attribute.Decimal;
     text_rich_1: Attribute.Blocks;
+    PDFLink: Attribute.Component<'documents.pd-flink', true>;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_documents_pd_flinks",
+  "info": {
+    "displayName": "PDFlink",
+    "icon": "filePdf",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Nombre": {
+      "type": "string"
+    },
+    "URL": {
+      "type": "string"
+    }
+  }
+}
